@@ -1,0 +1,7 @@
+input_text,expected_tokens
+"Models learn, from data.",models|learn|from|data
+Don't split apostrophes.,don't|split|apostrophes
+Reviewer’s notes are clear.,reviewer's|notes|are|clear
+Train-test checks,train|test|checks
+Version 2 improved 15%.,version|improved
+Mixed CASE and punctuation!,mixed|case|and|punctuation
