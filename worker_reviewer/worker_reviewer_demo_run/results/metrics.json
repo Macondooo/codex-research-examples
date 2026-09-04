@@ -1,0 +1,30 @@
+{
+  "accuracy": 0.9333333333333333,
+  "confusion_matrix": [
+    [
+      10,
+      0,
+      0
+    ],
+    [
+      0,
+      10,
+      0
+    ],
+    [
+      0,
+      2,
+      8
+    ]
+  ],
+  "class_labels": [
+    "setosa",
+    "versicolor",
+    "virginica"
+  ],
+  "random_state": 42,
+  "test_size": 0.2,
+  "n_neighbors": 5,
+  "train_samples": 120,
+  "test_samples": 30
+}

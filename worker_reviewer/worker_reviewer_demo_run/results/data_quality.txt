@@ -1,0 +1,7 @@
+- Rows: 150; numeric features: 4.
+- Missing values: 0.
+- Non-finite values: 0.
+- Non-positive measurements: 0.
+- Class counts: setosa=50, versicolor=50, virginica=50.
+- Exact duplicate feature rows: 1; retained because they are valid observations.
+- No missing, invalid, or class-imbalance issue requires correction.
