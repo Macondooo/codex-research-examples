@@ -1,0 +1,15 @@
+{
+  "model": "SGDClassifier",
+  "loss": "log_loss",
+  "seed": 42,
+  "training_rows": 60000,
+  "test_rows": 10000,
+  "accuracy": 0.9155,
+  "macro_f1": 0.91413481087311,
+  "versions": {
+    "python": "3.13.5",
+    "numpy": "2.5.2",
+    "scikit-learn": "1.9.0",
+    "matplotlib": "3.11.1"
+  }
+}
